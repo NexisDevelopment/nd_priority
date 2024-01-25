@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/NexisProgramming/le_priority/releases/tag/1.0.3" title="Release"><img alt="Release" src="https://img.shields.io/github/v/release/NexisProgramming/le_priority"></a>
+  <a href="https://github.com/NexisDevelopment/le_priority/releases/tag/1.0.3" title="Release"><img alt="Release" src="https://img.shields.io/github/v/release/NexisDevelopment/le_priority"></a>
   <a href="LICENSE" title="License"><img alt="License" src="https://img.shields.io/github/license/hi764/le_priority.svg"></a>
 </p>
 
